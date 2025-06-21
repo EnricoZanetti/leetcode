@@ -1,6 +1,3 @@
-# Leetcode
-My LeetCode solutions
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
