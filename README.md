@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EnricoZanetti/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/EnricoZanetti/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/EnricoZanetti/leetcode/tree/master/0006-zigzag-conversion) |
 ## Array
 |  |
@@ -39,4 +40,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/EnricoZanetti/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/EnricoZanetti/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/EnricoZanetti/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
