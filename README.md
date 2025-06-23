@@ -7,6 +7,7 @@
 | [0005-longest-palindromic-substring](https://github.com/EnricoZanetti/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/EnricoZanetti/leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/EnricoZanetti/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0187-repeated-dna-sequences](https://github.com/EnricoZanetti/leetcode/tree/master/0187-repeated-dna-sequences) |
 ## Array
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/EnricoZanetti/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EnricoZanetti/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/EnricoZanetti/leetcode/tree/master/0187-repeated-dna-sequences) |
 ## Linked List
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EnricoZanetti/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/EnricoZanetti/leetcode/tree/master/0187-repeated-dna-sequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,4 +57,16 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/EnricoZanetti/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/EnricoZanetti/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/EnricoZanetti/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/EnricoZanetti/leetcode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
