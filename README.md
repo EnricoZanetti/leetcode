@@ -7,6 +7,7 @@
 | [0005-longest-palindromic-substring](https://github.com/EnricoZanetti/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/EnricoZanetti/leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/EnricoZanetti/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/EnricoZanetti/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/EnricoZanetti/leetcode/tree/master/0022-generate-parentheses) |
 | [0187-repeated-dna-sequences](https://github.com/EnricoZanetti/leetcode/tree/master/0187-repeated-dna-sequences) |
 ## Array
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/EnricoZanetti/leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/EnricoZanetti/leetcode/tree/master/0010-regular-expression-matching) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/EnricoZanetti/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/EnricoZanetti/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/EnricoZanetti/leetcode/tree/master/0022-generate-parentheses) |
 ## Bit Manipulation
 |  |
