@@ -20,6 +20,7 @@
 | [0011-container-with-most-water](https://github.com/EnricoZanetti/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/EnricoZanetti/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/EnricoZanetti/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/EnricoZanetti/leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/EnricoZanetti/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/EnricoZanetti/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Hash Table
@@ -66,6 +67,7 @@
 | [0005-longest-palindromic-substring](https://github.com/EnricoZanetti/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/EnricoZanetti/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/EnricoZanetti/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/EnricoZanetti/leetcode/tree/master/0016-3sum-closest) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/EnricoZanetti/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/EnricoZanetti/leetcode/tree/master/0016-3sum-closest) |
 ## Trie
 |  |
 | ------- |
