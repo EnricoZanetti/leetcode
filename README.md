@@ -24,6 +24,7 @@
 | [0018-4sum](https://github.com/EnricoZanetti/leetcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/EnricoZanetti/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/EnricoZanetti/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/EnricoZanetti/leetcode/tree/master/0045-jump-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0005-longest-palindromic-substring](https://github.com/EnricoZanetti/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/EnricoZanetti/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/EnricoZanetti/leetcode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/EnricoZanetti/leetcode/tree/master/0045-jump-game-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/EnricoZanetti/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/EnricoZanetti/leetcode/tree/master/0045-jump-game-ii) |
 ## Sorting
 |  |
 | ------- |
