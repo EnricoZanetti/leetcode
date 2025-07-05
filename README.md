@@ -25,6 +25,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/EnricoZanetti/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/EnricoZanetti/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/EnricoZanetti/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/EnricoZanetti/leetcode/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/EnricoZanetti/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/EnricoZanetti/leetcode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [0010-regular-expression-matching](https://github.com/EnricoZanetti/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/EnricoZanetti/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/EnricoZanetti/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/EnricoZanetti/leetcode/tree/master/0053-maximum-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
