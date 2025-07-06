@@ -12,22 +12,16 @@ class Solution:
             '9': 'wxyz'
         }
 
-        res = []
-
         if len(digits) == 0:
             return []
         
-        # iterative stack to simulate DFS
-        stack = [("", 0)]  # (current_string, current_index)
-        res = []
+        res = [""]   # start with an empty combination
         
-        while stack:
-            current, index = stack.pop()
-            
-            if index == len(digits):
-                res.append(current)
-            else:
-                for letter in combinations[digits[index]]:
-                    stack.append((current + letter, index + 1))
-        
+        for digit in digits:
+            letters = combinations[digit]
+            temp = []
+            for prefix in res:
+                for letter in letters:
+                    temp.append(prefix + letter)
+            res = temp   # update
         return res
