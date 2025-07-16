@@ -15,6 +15,7 @@
 | [0020-valid-parentheses](https://github.com/EnricoZanetti/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/EnricoZanetti/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/EnricoZanetti/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/EnricoZanetti/leetcode/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/EnricoZanetti/leetcode/tree/master/0187-repeated-dna-sequences) |
 ## Array
 |  |
@@ -32,6 +33,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/EnricoZanetti/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/EnricoZanetti/leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/EnricoZanetti/leetcode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/EnricoZanetti/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/EnricoZanetti/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/EnricoZanetti/leetcode/tree/master/0055-jump-game) |
 ## Hash Table
@@ -43,6 +45,7 @@
 | [0013-roman-to-integer](https://github.com/EnricoZanetti/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/EnricoZanetti/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/EnricoZanetti/leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/EnricoZanetti/leetcode/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/EnricoZanetti/leetcode/tree/master/0187-repeated-dna-sequences) |
 ## Linked List
 |  |
@@ -142,6 +145,7 @@
 | [0015-3sum](https://github.com/EnricoZanetti/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/EnricoZanetti/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/EnricoZanetti/leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/EnricoZanetti/leetcode/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |
