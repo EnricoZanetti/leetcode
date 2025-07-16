@@ -30,6 +30,7 @@
 | [0027-remove-element](https://github.com/EnricoZanetti/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/EnricoZanetti/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/EnricoZanetti/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/EnricoZanetti/leetcode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/EnricoZanetti/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/EnricoZanetti/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/EnricoZanetti/leetcode/tree/master/0055-jump-game) |
@@ -41,6 +42,7 @@
 | [0012-integer-to-roman](https://github.com/EnricoZanetti/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/EnricoZanetti/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/EnricoZanetti/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/EnricoZanetti/leetcode/tree/master/0036-valid-sudoku) |
 | [0187-repeated-dna-sequences](https://github.com/EnricoZanetti/leetcode/tree/master/0187-repeated-dna-sequences) |
 ## Linked List
 |  |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/EnricoZanetti/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/EnricoZanetti/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
