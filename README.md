@@ -16,6 +16,7 @@
 | [0022-generate-parentheses](https://github.com/EnricoZanetti/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/EnricoZanetti/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/EnricoZanetti/leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/EnricoZanetti/leetcode/tree/master/0058-length-of-last-word) |
 | [0187-repeated-dna-sequences](https://github.com/EnricoZanetti/leetcode/tree/master/0187-repeated-dna-sequences) |
 ## Array
 |  |
